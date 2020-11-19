@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Zhejiang,2020-11-17,29.1832,120.0934,2020-01-28,173,45,23.285714285714285,0,0,0.0
 China,Zhejiang,2020-11-17,29.1832,120.0934,2020-01-29,296,123,40.857142857142854,0,0,0.0
 China,Zhejiang,2020-11-17,29.1832,120.0934,2020-01-30,428,132,57.285714285714285,0,0,0.0

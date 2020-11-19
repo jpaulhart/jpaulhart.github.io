@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 France,Saint Barthelemy,2020-11-17,17.9,-62.8333,2020-01-28,0,0,0.0,0,0,0.0
 France,Saint Barthelemy,2020-11-17,17.9,-62.8333,2020-01-29,0,0,0.0,0,0,0.0
 France,Saint Barthelemy,2020-11-17,17.9,-62.8333,2020-01-30,0,0,0.0,0,0,0.0

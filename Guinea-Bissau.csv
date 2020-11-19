@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Guinea-Bissau,,2020-11-17,11.8037,-15.1804,2020-01-28,0,0,0.0,0,0,0.0
 Guinea-Bissau,,2020-11-17,11.8037,-15.1804,2020-01-29,0,0,0.0,0,0,0.0
 Guinea-Bissau,,2020-11-17,11.8037,-15.1804,2020-01-30,0,0,0.0,0,0,0.0

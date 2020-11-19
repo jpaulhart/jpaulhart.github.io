@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Saint Vincent and the Grenadines,,2020-11-17,12.9843,-61.2872,2020-01-28,0,0,0.0,0,0,0.0
 Saint Vincent and the Grenadines,,2020-11-17,12.9843,-61.2872,2020-01-29,0,0,0.0,0,0,0.0
 Saint Vincent and the Grenadines,,2020-11-17,12.9843,-61.2872,2020-01-30,0,0,0.0,0,0,0.0

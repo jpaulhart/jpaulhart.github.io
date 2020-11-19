@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Norway,,2020-11-17,60.472,8.4689,2020-01-28,0,0,0.0,0,0,0.0
 Norway,,2020-11-17,60.472,8.4689,2020-01-29,0,0,0.0,0,0,0.0
 Norway,,2020-11-17,60.472,8.4689,2020-01-30,0,0,0.0,0,0,0.0

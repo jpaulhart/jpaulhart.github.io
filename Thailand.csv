@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Thailand,,2020-11-17,15.870032,100.992541,2020-01-28,14,6,1.7142857142857142,0,0,0.0
 Thailand,,2020-11-17,15.870032,100.992541,2020-01-29,14,0,1.7142857142857142,0,0,0.0
 Thailand,,2020-11-17,15.870032,100.992541,2020-01-30,14,0,1.5714285714285714,0,0,0.0

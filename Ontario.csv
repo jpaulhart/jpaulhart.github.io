@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Canada,Ontario,2020-11-17,51.2538,-85.3232,2020-01-28,1,0,0.14285714285714285,0,0,0.0
 Canada,Ontario,2020-11-17,51.2538,-85.3232,2020-01-29,1,0,0.14285714285714285,0,0,0.0
 Canada,Ontario,2020-11-17,51.2538,-85.3232,2020-01-30,1,0,0.14285714285714285,0,0,0.0

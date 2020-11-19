@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Hubei,2020-11-17,30.9756,112.2707,2020-01-28,3554,2131,444.2857142857143,125,49,15.428571428571429
 China,Hubei,2020-11-17,30.9756,112.2707,2020-01-29,3554,0,444.2857142857143,125,0,15.428571428571429
 China,Hubei,2020-11-17,30.9756,112.2707,2020-01-30,4903,1349,637.0,162,37,20.714285714285715

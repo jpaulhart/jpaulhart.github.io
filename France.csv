@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 France,,2020-11-17,46.2276,2.2137,2020-01-28,4,1,0.5714285714285714,0,0,0.0
 France,,2020-11-17,46.2276,2.2137,2020-01-29,5,1,0.7142857142857143,0,0,0.0
 France,,2020-11-17,46.2276,2.2137,2020-01-30,5,0,0.7142857142857143,0,0,0.0

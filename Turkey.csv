@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Turkey,,2020-11-17,38.9637,35.2433,2020-01-28,0,0,0.0,0,0,0.0
 Turkey,,2020-11-17,38.9637,35.2433,2020-01-29,0,0,0.0,0,0,0.0
 Turkey,,2020-11-17,38.9637,35.2433,2020-01-30,0,0,0.0,0,0,0.0

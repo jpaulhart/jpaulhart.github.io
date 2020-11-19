@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Taiwan*,,2020-11-17,23.7,121.0,2020-01-28,8,3,1.0,0,0,0.0
 Taiwan*,,2020-11-17,23.7,121.0,2020-01-29,8,0,1.0,0,0,0.0
 Taiwan*,,2020-11-17,23.7,121.0,2020-01-30,9,1,1.1428571428571428,0,0,0.0

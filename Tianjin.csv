@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Tianjin,2020-11-17,39.3054,117.323,2020-01-28,24,1,2.857142857142857,0,0,0.0
 China,Tianjin,2020-11-17,39.3054,117.323,2020-01-29,27,3,3.2857142857142856,0,0,0.0
 China,Tianjin,2020-11-17,39.3054,117.323,2020-01-30,31,4,3.857142857142857,0,0,0.0

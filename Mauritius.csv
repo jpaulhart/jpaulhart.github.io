@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Mauritius,,2020-11-17,-20.348404000000002,57.552152,2020-01-28,0,0,0.0,0,0,0.0
 Mauritius,,2020-11-17,-20.348404000000002,57.552152,2020-01-29,0,0,0.0,0,0,0.0
 Mauritius,,2020-11-17,-20.348404000000002,57.552152,2020-01-30,0,0,0.0,0,0,0.0

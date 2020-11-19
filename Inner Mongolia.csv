@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Inner Mongolia,2020-11-17,44.0935,113.9448,2020-01-28,15,4,2.142857142857143,0,0,0.0
 China,Inner Mongolia,2020-11-17,44.0935,113.9448,2020-01-29,16,1,2.2857142857142856,0,0,0.0
 China,Inner Mongolia,2020-11-17,44.0935,113.9448,2020-01-30,19,3,2.7142857142857144,0,0,0.0

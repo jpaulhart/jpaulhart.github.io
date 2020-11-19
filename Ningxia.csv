@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Ningxia,2020-11-17,37.2692,106.1655,2020-01-28,11,4,1.4285714285714286,0,0,0.0
 China,Ningxia,2020-11-17,37.2692,106.1655,2020-01-29,12,1,1.5714285714285714,0,0,0.0
 China,Ningxia,2020-11-17,37.2692,106.1655,2020-01-30,17,5,2.2857142857142856,0,0,0.0

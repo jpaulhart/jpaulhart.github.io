@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Kuwait,,2020-11-17,29.311659999999996,47.481766,2020-01-28,0,0,0.0,0,0,0.0
 Kuwait,,2020-11-17,29.311659999999996,47.481766,2020-01-29,0,0,0.0,0,0,0.0
 Kuwait,,2020-11-17,29.311659999999996,47.481766,2020-01-30,0,0,0.0,0,0,0.0

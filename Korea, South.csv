@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Korea, South,,2020-11-17,35.907757000000004,127.766922,2020-01-28,4,0,0.42857142857142855,0,0,0.0
 Korea, South,,2020-11-17,35.907757000000004,127.766922,2020-01-29,4,0,0.42857142857142855,0,0,0.0
 Korea, South,,2020-11-17,35.907757000000004,127.766922,2020-01-30,4,0,0.42857142857142855,0,0,0.0

@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Singapore,,2020-11-17,1.2833,103.8333,2020-01-28,7,2,1.0,0,0,0.0
 Singapore,,2020-11-17,1.2833,103.8333,2020-01-29,7,0,1.0,0,0,0.0
 Singapore,,2020-11-17,1.2833,103.8333,2020-01-30,10,3,1.2857142857142858,0,0,0.0

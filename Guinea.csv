@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Guinea,,2020-11-17,9.9456,-9.6966,2020-01-28,0,0,0.0,0,0,0.0
 Guinea,,2020-11-17,9.9456,-9.6966,2020-01-29,0,0,0.0,0,0,0.0
 Guinea,,2020-11-17,9.9456,-9.6966,2020-01-30,0,0,0.0,0,0,0.0

@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Malaysia,,2020-11-17,4.210483999999999,101.97576600000001,2020-01-28,4,0,0.5714285714285714,0,0,0.0
 Malaysia,,2020-11-17,4.210483999999999,101.97576600000001,2020-01-29,7,3,1.0,0,0,0.0
 Malaysia,,2020-11-17,4.210483999999999,101.97576600000001,2020-01-30,8,1,1.1428571428571428,0,0,0.0

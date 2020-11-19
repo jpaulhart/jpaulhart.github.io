@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Canada,British Columbia,2020-11-17,53.7267,-127.6476,2020-01-28,1,1,0.14285714285714285,0,0,0.0
 Canada,British Columbia,2020-11-17,53.7267,-127.6476,2020-01-29,1,0,0.14285714285714285,0,0,0.0
 Canada,British Columbia,2020-11-17,53.7267,-127.6476,2020-01-30,1,0,0.14285714285714285,0,0,0.0

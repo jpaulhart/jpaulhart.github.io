@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Qinghai,2020-11-17,35.7452,95.9956,2020-01-28,6,0,0.8571428571428571,0,0,0.0
 China,Qinghai,2020-11-17,35.7452,95.9956,2020-01-29,6,0,0.8571428571428571,0,0,0.0
 China,Qinghai,2020-11-17,35.7452,95.9956,2020-01-30,8,2,1.1428571428571428,0,0,0.0

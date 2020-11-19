@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Hong Kong,2020-11-17,22.3,114.2,2020-01-28,8,0,1.1428571428571428,0,0,0.0
 China,Hong Kong,2020-11-17,22.3,114.2,2020-01-29,10,2,1.4285714285714286,0,0,0.0
 China,Hong Kong,2020-11-17,22.3,114.2,2020-01-30,10,0,1.1428571428571428,0,0,0.0

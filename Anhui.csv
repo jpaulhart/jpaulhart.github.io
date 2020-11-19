@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Anhui,2020-11-17,31.8257,117.2264,2020-01-28,106,36,15.0,0,0,0.0
 China,Anhui,2020-11-17,31.8257,117.2264,2020-01-29,152,46,21.571428571428573,0,0,0.0
 China,Anhui,2020-11-17,31.8257,117.2264,2020-01-30,200,48,27.285714285714285,0,0,0.0

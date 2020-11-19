@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Malta,,2020-11-17,35.9375,14.3754,2020-01-28,0,0,0.0,0,0,0.0
 Malta,,2020-11-17,35.9375,14.3754,2020-01-29,0,0,0.0,0,0,0.0
 Malta,,2020-11-17,35.9375,14.3754,2020-01-30,0,0,0.0,0,0,0.0

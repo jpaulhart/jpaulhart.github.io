@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Jiangsu,2020-11-17,32.9711,119.455,2020-01-28,70,23,9.857142857142858,0,0,0.0
 China,Jiangsu,2020-11-17,32.9711,119.455,2020-01-29,99,29,14.0,0,0,0.0
 China,Jiangsu,2020-11-17,32.9711,119.455,2020-01-30,129,30,17.714285714285715,0,0,0.0

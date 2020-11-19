@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Gansu,2020-11-17,35.7518,104.2861,2020-01-28,19,5,2.7142857142857144,0,0,0.0
 China,Gansu,2020-11-17,35.7518,104.2861,2020-01-29,24,5,3.4285714285714284,0,0,0.0
 China,Gansu,2020-11-17,35.7518,104.2861,2020-01-30,26,2,3.4285714285714284,0,0,0.0

@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Guangdong,2020-11-17,23.3417,113.4244,2020-01-28,207,56,25.857142857142858,0,0,0.0
 China,Guangdong,2020-11-17,23.3417,113.4244,2020-01-29,277,70,35.857142857142854,0,0,0.0
 China,Guangdong,2020-11-17,23.3417,113.4244,2020-01-30,354,77,46.0,0,0,0.0

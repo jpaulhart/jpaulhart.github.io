@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Henan,2020-11-17,37.8957,114.9042,2020-01-28,168,40,23.285714285714285,1,0,0.14285714285714285
 China,Henan,2020-11-17,37.8957,114.9042,2020-01-29,206,38,28.714285714285715,2,1,0.2857142857142857
 China,Henan,2020-11-17,37.8957,114.9042,2020-01-30,278,72,39.0,2,0,0.2857142857142857

@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Tunisia,,2020-11-17,33.886917,9.537499,2020-01-28,0,0,0.0,0,0,0.0
 Tunisia,,2020-11-17,33.886917,9.537499,2020-01-29,0,0,0.0,0,0,0.0
 Tunisia,,2020-11-17,33.886917,9.537499,2020-01-30,0,0,0.0,0,0,0.0

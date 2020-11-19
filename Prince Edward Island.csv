@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Canada,Prince Edward Island,2020-11-17,46.5107,-63.4168,2020-01-28,0,0,0.0,0,0,0.0
 Canada,Prince Edward Island,2020-11-17,46.5107,-63.4168,2020-01-29,0,0,0.0,0,0,0.0
 Canada,Prince Edward Island,2020-11-17,46.5107,-63.4168,2020-01-30,0,0,0.0,0,0,0.0

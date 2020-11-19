@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Chongqing,2020-11-17,30.0572,107.874,2020-01-28,132,22,18.0,0,0,0.0
 China,Chongqing,2020-11-17,30.0572,107.874,2020-01-29,147,15,20.142857142857142,0,0,0.0
 China,Chongqing,2020-11-17,30.0572,107.874,2020-01-30,182,35,24.714285714285715,0,0,0.0

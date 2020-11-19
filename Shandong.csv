@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Shandong,2020-11-17,36.3427,118.1498,2020-01-28,95,20,13.285714285714286,0,0,0.0
 China,Shandong,2020-11-17,36.3427,118.1498,2020-01-29,130,35,18.285714285714285,0,0,0.0
 China,Shandong,2020-11-17,36.3427,118.1498,2020-01-30,158,28,21.714285714285715,0,0,0.0

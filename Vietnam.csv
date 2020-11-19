@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Vietnam,,2020-11-17,14.058323999999999,108.277199,2020-01-28,2,0,0.2857142857142857,0,0,0.0
 Vietnam,,2020-11-17,14.058323999999999,108.277199,2020-01-29,2,0,0.2857142857142857,0,0,0.0
 Vietnam,,2020-11-17,14.058323999999999,108.277199,2020-01-30,2,0,0.0,0,0,0.0

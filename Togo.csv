@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Togo,,2020-11-17,8.6195,0.8248,2020-01-28,0,0,0.0,0,0,0.0
 Togo,,2020-11-17,8.6195,0.8248,2020-01-29,0,0,0.0,0,0,0.0
 Togo,,2020-11-17,8.6195,0.8248,2020-01-30,0,0,0.0,0,0,0.0

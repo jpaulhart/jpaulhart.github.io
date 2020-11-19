@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Jordan,,2020-11-17,31.24,36.51,2020-01-28,0,0,0.0,0,0,0.0
 Jordan,,2020-11-17,31.24,36.51,2020-01-29,0,0,0.0,0,0,0.0
 Jordan,,2020-11-17,31.24,36.51,2020-01-30,0,0,0.0,0,0,0.0

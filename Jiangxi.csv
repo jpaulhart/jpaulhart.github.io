@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Jiangxi,2020-11-17,27.614,115.7221,2020-01-28,109,37,15.285714285714286,0,0,0.0
 China,Jiangxi,2020-11-17,27.614,115.7221,2020-01-29,109,0,15.285714285714286,0,0,0.0
 China,Jiangxi,2020-11-17,27.614,115.7221,2020-01-30,162,53,22.142857142857142,0,0,0.0

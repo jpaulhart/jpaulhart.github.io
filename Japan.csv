@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Japan,,2020-11-17,36.204824,138.252924,2020-01-28,7,3,0.7142857142857143,0,0,0.0
 Japan,,2020-11-17,36.204824,138.252924,2020-01-29,7,0,0.7142857142857143,0,0,0.0
 Japan,,2020-11-17,36.204824,138.252924,2020-01-30,11,4,1.2857142857142858,0,0,0.0

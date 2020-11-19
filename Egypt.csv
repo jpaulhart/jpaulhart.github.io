@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Egypt,,2020-11-17,26.820553000000004,30.802497999999996,2020-01-28,0,0,0.0,0,0,0.0
 Egypt,,2020-11-17,26.820553000000004,30.802497999999996,2020-01-29,0,0,0.0,0,0,0.0
 Egypt,,2020-11-17,26.820553000000004,30.802497999999996,2020-01-30,0,0,0.0,0,0,0.0

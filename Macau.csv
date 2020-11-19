@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 China,Macau,2020-11-17,22.1667,113.55,2020-01-28,7,1,0.8571428571428571,0,0,0.0
 China,Macau,2020-11-17,22.1667,113.55,2020-01-29,7,0,0.8571428571428571,0,0,0.0
 China,Macau,2020-11-17,22.1667,113.55,2020-01-30,7,0,0.7142857142857143,0,0,0.0

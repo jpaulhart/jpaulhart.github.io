@@ -1,4 +1,4 @@
-country, province, lastDate, latitude, longitude, date, confirmed, confirmedNew, confirmedNewMean, deaths, deathsNew, deathsNewMean
+country,province,lastDate,latitude,longitude,date,confirmed,confirmedNew,confirmedNewMean,deaths,deathsNew,deathsNewMean
 Australia,,2020-11-17,-35.4735,149.0124,2020-01-28,5,0,0.7142857142857143,0,0,0.0
 Australia,,2020-11-17,-35.4735,149.0124,2020-01-29,6,1,0.8571428571428571,0,0,0.0
 Australia,,2020-11-17,-35.4735,149.0124,2020-01-30,9,3,1.2857142857142858,0,0,0.0
