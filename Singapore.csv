@@ -310,3 +310,4 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Singapore,1.2833,103.8333,2020-11-25,58190.0,28.0,Singapore / ,7.0,0.0,7.857142857142857,0.0
 ,Singapore,1.2833,103.8333,2020-11-26,58195.0,28.0,Singapore / ,5.0,0.0,8.0,0.0
 ,Singapore,1.2833,103.8333,2020-11-27,58199.0,28.0,Singapore / ,4.0,0.0,8.0,0.0
+,Singapore,1.2833,103.8333,2020-11-28,58205.0,29.0,Singapore / ,6.0,1.0,8.142857142857142,0.14285714285714285
