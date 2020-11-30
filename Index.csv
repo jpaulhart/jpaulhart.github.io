@@ -11,7 +11,7 @@ Antigua and Barbuda,Antigua and Barbuda.csv,17.0608,-61.7964
 Argentina,Argentina.csv,-38.4161,-63.6167
 Armenia,Armenia.csv,40.0691,45.0382
 Aruba,Aruba.csv,12.5211,-69.9683
-Australia,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/Australia.csv,-35.308056,149.124444
+Australia,Australia.csv,-35.308056,149.124444
 Australian Capital Territory,Australian Capital Territory.csv,-35.4735,149.0124
 Austria,Austria.csv,47.5162,14.5501
 Azerbaijan,Azerbaijan.csv,40.1431,47.5769
@@ -41,13 +41,13 @@ Burundi,Burundi.csv,-3.3731,29.9189
 Cabo Verde,Cabo Verde.csv,16.5388,-23.0418
 Cambodia,Cambodia.csv,11.55,104.9167
 Cameroon,Cameroon.csv,3.848,11.5021
-Canada,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/Canada.csv,45.4,-75.666667
+Canada,Canada.csv,45.4,-75.666667
 Cayman Islands,Cayman Islands.csv,19.3133,-81.2546
 Central African Republic,Central African Republic.csv,6.6111,20.9394
 Chad,Chad.csv,15.4542,18.7322
 Channel Islands,Channel Islands.csv,49.3723,-2.3644
 Chile,Chile.csv,-35.6751,-71.543
-China,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/China.csv,39.916667, 116.383333
+China,China.csv,39.916667, 116.383333
 Chongqing,Chongqing.csv,30.0572,107.874
 Colombia,Colombia.csv,4.5709,-74.2973
 Comoros,Comoros.csv,-11.6455,43.3333
@@ -60,7 +60,7 @@ Cuba,Cuba.csv,21.521757,-77.781167
 Curacao,Curacao.csv,12.1696,-68.99
 Cyprus,Cyprus.csv,35.1264,33.4299
 Czechia,Czechia.csv,49.8175,15.473
-Denmark,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/Denmark.csv,55.716667, 12.566667
+Denmark,Denmark.csv,55.716667, 12.566667
 Denmark,Denmark.csv,56.2639,9.5018
 Diamond Princess,Diamond Princess.csv,0.0,0.0
 Diamond Princess,Diamond Princess.csv,0.0,0.0
@@ -80,7 +80,7 @@ Faroe Islands,Faroe Islands.csv,61.8926,-6.9118
 Fiji,Fiji.csv,-17.7134,178.065
 Finland,Finland.csv,61.92411,25.748151
 France,France.csv,46.2276,2.2137
-France,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/France.csv,48.85, 2.35
+France,France.csv,48.85, 2.35
 French Guiana,French Guiana.csv,3.9339,-53.1258
 French Polynesia,French Polynesia.csv,-17.6797,149.4068
 Fujian,Fujian.csv,26.0789,117.9874
@@ -170,7 +170,7 @@ Morocco,Morocco.csv,31.7917,-7.0926
 Mozambique,Mozambique.csv,-18.665695,35.529562
 Namibia,Namibia.csv,-22.9576,18.4904
 Nepal,Nepal.csv,28.1667,84.25
-Netherlands,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/Netherlands.csv,52.366667, 4.883333
+Netherlands,Netherlands.csv,52.366667, 4.883333
 Netherlands,Netherlands.csv,52.1326,5.2913
 New Brunswick,New Brunswick.csv,46.5653,-66.4619
 New Caledonia,New Caledonia.csv,-20.904305,165.618042
@@ -259,7 +259,7 @@ US,US.csv,40.0,-100.0
 Uganda,Uganda.csv,1.373333,32.290275
 Ukraine,Ukraine.csv,48.3794,31.1656
 United Arab Emirates,United Arab Emirates.csv,23.424076,53.847818
-United Kingdom,/Users/paulhart/Dropbox/COVID-19/Data/jpaulhart.github.io/United Kingdom.csv,51.507222, -0.1275
+United Kingdom,United Kingdom.csv,51.507222, -0.1275
 United Kingdom,United Kingdom.csv,55.3781,-3.436
 Uruguay,Uruguay.csv,-32.5228,-55.7658
 Uzbekistan,Uzbekistan.csv,41.377491,64.585262
