@@ -315,3 +315,4 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Madagascar,-18.766947,46.869107,2020-11-30,17341.0,251.0,Madagascar / ,0.0,0.0,0.0,0.0
 ,Madagascar,-18.766947,46.869107,2020-12-01,17341.0,251.0,Madagascar / ,0.0,0.0,0.0,0.0
 ,Madagascar,-18.766947,46.869107,2020-12-02,17341.0,251.0,Madagascar / ,0.0,0.0,0.0,0.0
+,Madagascar,-18.766947,46.869107,2020-12-03,17513.0,255.0,Madagascar / ,172.0,4.0,24.571428571428573,0.5714285714285714
