@@ -316,3 +316,4 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Mauritius,-20.348404,57.552152,2020-12-01,505.0,10.0,Mauritius / ,1.0,0.0,1.5714285714285714,0.0
 ,Mauritius,-20.348404,57.552152,2020-12-02,508.0,10.0,Mauritius / ,3.0,0.0,1.5714285714285714,0.0
 ,Mauritius,-20.348404,57.552152,2020-12-03,508.0,10.0,Mauritius / ,0.0,0.0,1.4285714285714286,0.0
+,Mauritius,-20.348404,57.552152,2020-12-04,508.0,10.0,Mauritius / ,0.0,0.0,1.0,0.0
