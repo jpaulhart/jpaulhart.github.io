@@ -325,3 +325,5 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Antigua and Barbuda,17.0608,-61.7964,2020-12-10,146.0,4.0,Antigua and Barbuda / ,0.0,0.0,0.2857142857142857,0.0
 ,Antigua and Barbuda,17.0608,-61.7964,2020-12-11,147.0,4.0,Antigua and Barbuda / ,1.0,0.0,0.42857142857142855,0.0
 ,Antigua and Barbuda,17.0608,-61.7964,2020-12-12,148.0,4.0,Antigua and Barbuda / ,1.0,0.0,0.5714285714285714,0.0
+,Antigua and Barbuda,17.0608,-61.7964,2020-12-13,148.0,5.0,Antigua and Barbuda / ,0.0,1.0,0.5714285714285714,0.14285714285714285
+,Antigua and Barbuda,17.0608,-61.7964,2020-12-14,148.0,5.0,Antigua and Barbuda / ,0.0,0.0,0.2857142857142857,0.14285714285714285
