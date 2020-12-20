@@ -331,3 +331,4 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Liechtenstein,47.14,9.55,2020-12-16,1600.0,21.0,Liechtenstein / ,21.0,0.0,24.0,0.2857142857142857
 ,Liechtenstein,47.14,9.55,2020-12-17,1635.0,21.0,Liechtenstein / ,35.0,0.0,27.714285714285715,0.2857142857142857
 ,Liechtenstein,47.14,9.55,2020-12-18,1676.0,23.0,Liechtenstein / ,41.0,2.0,30.0,0.42857142857142855
+,Liechtenstein,47.14,9.55,2020-12-19,1711.0,25.0,Liechtenstein / ,35.0,2.0,32.714285714285715,0.7142857142857143
