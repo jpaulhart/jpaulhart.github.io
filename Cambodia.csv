@@ -343,3 +343,4 @@ Province,Country,Lat,Long,Date,Confirmed,Deaths,Key,ConfirmedNew,DeathsNew,Confi
 ,Cambodia,11.55,104.9167,2020-12-28,364.0,0.0,Cambodia / ,0.0,0.0,0.14285714285714285,0.0
 ,Cambodia,11.55,104.9167,2020-12-29,364.0,0.0,Cambodia / ,0.0,0.0,0.14285714285714285,0.0
 ,Cambodia,11.55,104.9167,2020-12-30,366.0,0.0,Cambodia / ,2.0,0.0,0.42857142857142855,0.0
+,Cambodia,11.55,104.9167,2020-12-31,378.0,0.0,Cambodia / ,12.0,0.0,2.142857142857143,0.0
